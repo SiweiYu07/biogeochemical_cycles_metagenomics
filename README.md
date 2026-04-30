@@ -6,7 +6,7 @@ This repository contains the analysis scripts used for the metagenomic functiona
 
 The analyses in this repository include:
 
-1. Construction of KO–bin bipartite networks
+1. Construction of MAG–KO bipartite networks
 2. Calculation of network topological properties
 3. Generation and analysis of GraphML network files
 4. Non-metric multidimensional scaling analysis
