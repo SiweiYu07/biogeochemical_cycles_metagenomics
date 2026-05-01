@@ -1,0 +1,1511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_Gene" for="node" attr.name="Gene" attr.type="string"/>
+  <key id="v_Function" for="node" attr.name="Function" attr.type="string"/>
+  <key id="v_type" for="node" attr.name="type" attr.type="string"/>
+  <key id="v_label" for="node" attr.name="label" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">K00823</data>
+      <data key="v_Gene">puuE</data>
+      <data key="v_Function">Amino acid utilization</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">puuE</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">K05825</data>
+      <data key="v_Gene">LYSN</data>
+      <data key="v_Function">Amino acid utilization</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">LYSN</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">K00831</data>
+      <data key="v_Gene">serC</data>
+      <data key="v_Function">Amino acid utilization</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">serC</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">K00821</data>
+      <data key="v_Gene">argD</data>
+      <data key="v_Function">Amino acid utilization</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">argD</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">K00819</data>
+      <data key="v_Gene">OAT</data>
+      <data key="v_Function">Amino acid utilization</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">OAT</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">K00826</data>
+      <data key="v_Gene">ilvE</data>
+      <data key="v_Function">Amino acid utilization</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">ilvE</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">K02619</data>
+      <data key="v_Gene">pabC</data>
+      <data key="v_Function">Amino acid utilization</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">pabC</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">K03342</data>
+      <data key="v_Gene">pabBC</data>
+      <data key="v_Function">Amino acid utilization</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">pabBC</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">K00832</data>
+      <data key="v_Gene">tyrB</data>
+      <data key="v_Function">Amino acid utilization</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">tyrB</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">K00812</data>
+      <data key="v_Gene">aspB</data>
+      <data key="v_Function">Amino acid utilization</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">aspB</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">K11358</data>
+      <data key="v_Gene">yhdR</data>
+      <data key="v_Function">Amino acid utilization</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">yhdR</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">K00817</data>
+      <data key="v_Gene">hisC</data>
+      <data key="v_Function">Amino acid utilization</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">hisC</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">K00830</data>
+      <data key="v_Gene">AGXT</data>
+      <data key="v_Function">Amino acid utilization</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">AGXT</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">K00255</data>
+      <data key="v_Gene">ACADL</data>
+      <data key="v_Function">Fatty acid degradation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">ACADL</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">K00249</data>
+      <data key="v_Gene">acd</data>
+      <data key="v_Function">Fatty acid degradation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">acd</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">K06446</data>
+      <data key="v_Gene">DCAA</data>
+      <data key="v_Function">Fatty acid degradation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">DCAA</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">K03381</data>
+      <data key="v_Gene">catA</data>
+      <data key="v_Function">Aromatics degradation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">catA</data>
+    </node>
+    <node id="n17">
+      <data key="v_name">K03186</data>
+      <data key="v_Gene">bsdB</data>
+      <data key="v_Function">Aromatics degradation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">bsdB</data>
+    </node>
+    <node id="n18">
+      <data key="v_name">K04113</data>
+      <data key="v_Gene">bcrB</data>
+      <data key="v_Function">Aromatics degradation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">bcrB</data>
+    </node>
+    <node id="n19">
+      <data key="v_name">K04115</data>
+      <data key="v_Gene">bcrD</data>
+      <data key="v_Function">Aromatics degradation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">bcrD</data>
+    </node>
+    <node id="n20">
+      <data key="v_name">K19668</data>
+      <data key="v_Gene">cellobiosidase</data>
+      <data key="v_Function">Complex carbon degradation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">cellobiosidase</data>
+    </node>
+    <node id="n21">
+      <data key="v_name">K01179</data>
+      <data key="v_Gene">cellulase</data>
+      <data key="v_Function">Complex carbon degradation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">cellulase</data>
+    </node>
+    <node id="n22">
+      <data key="v_name">K05349</data>
+      <data key="v_Gene">beta-glucosidase</data>
+      <data key="v_Function">Complex carbon degradation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">beta-glucosidase</data>
+    </node>
+    <node id="n23">
+      <data key="v_name">K05350</data>
+      <data key="v_Gene">beta-glucosidase</data>
+      <data key="v_Function">Complex carbon degradation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">beta-glucosidase</data>
+    </node>
+    <node id="n24">
+      <data key="v_name">K01209</data>
+      <data key="v_Gene">arabinosidase</data>
+      <data key="v_Function">Complex carbon degradation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">arabinosidase</data>
+    </node>
+    <node id="n25">
+      <data key="v_name">K01195</data>
+      <data key="v_Gene">beta-glucuronidase</data>
+      <data key="v_Function">Complex carbon degradation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">beta-glucuronidase</data>
+    </node>
+    <node id="n26">
+      <data key="v_name">K05989</data>
+      <data key="v_Gene">alpha-L-rhamnosidase</data>
+      <data key="v_Function">Complex carbon degradation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">alpha-L-rhamnosidase</data>
+    </node>
+    <node id="n27">
+      <data key="v_name">K01218</data>
+      <data key="v_Gene">mannan endo-1,4-beta-mannosidase</data>
+      <data key="v_Function">Complex carbon degradation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">mannan endo-1,4-beta-mannosidase</data>
+    </node>
+    <node id="n28">
+      <data key="v_name">K19355</data>
+      <data key="v_Gene">mannan endo-1,4-beta-mannosidase</data>
+      <data key="v_Function">Complex carbon degradation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">mannan endo-1,4-beta-mannosidase</data>
+    </node>
+    <node id="n29">
+      <data key="v_name">K01192</data>
+      <data key="v_Gene">beta-mannosidase</data>
+      <data key="v_Function">Complex carbon degradation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">beta-mannosidase</data>
+    </node>
+    <node id="n30">
+      <data key="v_name">K01190</data>
+      <data key="v_Gene">beta-galactosidase</data>
+      <data key="v_Function">Complex carbon degradation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">beta-galactosidase</data>
+    </node>
+    <node id="n31">
+      <data key="v_name">K12308</data>
+      <data key="v_Gene">beta-galactosidase</data>
+      <data key="v_Function">Complex carbon degradation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">beta-galactosidase</data>
+    </node>
+    <node id="n32">
+      <data key="v_name">K07405</data>
+      <data key="v_Gene">alpha-amylase</data>
+      <data key="v_Function">Complex carbon degradation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">alpha-amylase</data>
+    </node>
+    <node id="n33">
+      <data key="v_name">K01178</data>
+      <data key="v_Gene">glucoamylase</data>
+      <data key="v_Function">Complex carbon degradation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">glucoamylase</data>
+    </node>
+    <node id="n34">
+      <data key="v_name">K01214</data>
+      <data key="v_Gene">isoamylase</data>
+      <data key="v_Function">Complex carbon degradation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">isoamylase</data>
+    </node>
+    <node id="n35">
+      <data key="v_name">K01183</data>
+      <data key="v_Gene">chitiniase</data>
+      <data key="v_Function">Complex carbon degradation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">chitiniase</data>
+    </node>
+    <node id="n36">
+      <data key="v_name">K01207</data>
+      <data key="v_Gene">hexosaminidase</data>
+      <data key="v_Function">Complex carbon degradation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">hexosaminidase</data>
+    </node>
+    <node id="n37">
+      <data key="v_name">K12373</data>
+      <data key="v_Gene">hexosaminidase</data>
+      <data key="v_Function">Complex carbon degradation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">hexosaminidase</data>
+    </node>
+    <node id="n38">
+      <data key="v_name">K15228</data>
+      <data key="v_Gene">mauA</data>
+      <data key="v_Function">Methylamine oxidation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">mauA</data>
+    </node>
+    <node id="n39">
+      <data key="v_name">K15229</data>
+      <data key="v_Gene">mauB</data>
+      <data key="v_Function">Methylamine oxidation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">mauB</data>
+    </node>
+    <node id="n40">
+      <data key="v_name">K00121</data>
+      <data key="v_Gene">frmA</data>
+      <data key="v_Function">Formaldehyde oxidation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">frmA</data>
+    </node>
+    <node id="n41">
+      <data key="v_name">K00148</data>
+      <data key="v_Gene">fdhA</data>
+      <data key="v_Function">Formaldehyde oxidation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">fdhA</data>
+    </node>
+    <node id="n42">
+      <data key="v_name">K10713</data>
+      <data key="v_Gene">fae</data>
+      <data key="v_Function">Formaldehyde oxidation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">fae</data>
+    </node>
+    <node id="n43">
+      <data key="v_name">K00122</data>
+      <data key="v_Gene">FDH</data>
+      <data key="v_Function">Formate oxidation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">FDH</data>
+    </node>
+    <node id="n44">
+      <data key="v_name">K00123</data>
+      <data key="v_Gene">fdoG</data>
+      <data key="v_Function">Formate oxidation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">fdoG</data>
+    </node>
+    <node id="n45">
+      <data key="v_name">K00124</data>
+      <data key="v_Gene">fdoH</data>
+      <data key="v_Function">Formate oxidation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">fdoH</data>
+    </node>
+    <node id="n46">
+      <data key="v_name">K00125</data>
+      <data key="v_Gene">fdhB</data>
+      <data key="v_Function">Formate oxidation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">fdhB</data>
+    </node>
+    <node id="n47">
+      <data key="v_name">K01601</data>
+      <data key="v_Gene">cbbL</data>
+      <data key="v_Function">CBB cycle - Rubisco (Form I)</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">cbbL</data>
+    </node>
+    <node id="n48">
+      <data key="v_name">K01602</data>
+      <data key="v_Gene">cbbS</data>
+      <data key="v_Function">CBB cycle - Rubisco (Form II)</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">cbbS</data>
+    </node>
+    <node id="n49">
+      <data key="v_name">K14534</data>
+      <data key="v_Gene">4-hydroxybutyryl-CoA dehydratase</data>
+      <data key="v_Function">3HP/4HB</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">4-hydroxybutyryl-CoA dehydratase</data>
+    </node>
+    <node id="n50">
+      <data key="v_name">K00197</data>
+      <data key="v_Gene">cdhE</data>
+      <data key="v_Function">Wood Ljungdahl pathway</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">cdhE</data>
+    </node>
+    <node id="n51">
+      <data key="v_name">K00129</data>
+      <data key="v_Gene">ALDH3</data>
+      <data key="v_Function">Acetate =&gt; Acetaldehyde</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">ALDH3</data>
+    </node>
+    <node id="n52">
+      <data key="v_name">K13954</data>
+      <data key="v_Gene">yiaY</data>
+      <data key="v_Function">Acetaldehyde =&gt; Ethanol</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">yiaY</data>
+    </node>
+    <node id="n53">
+      <data key="v_name">K00001</data>
+      <data key="v_Gene">adh</data>
+      <data key="v_Function">Acetaldehyde =&gt; Ethanol</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">adh</data>
+    </node>
+    <node id="n54">
+      <data key="v_name">K00114</data>
+      <data key="v_Gene">exaA</data>
+      <data key="v_Function">Acetaldehyde =&gt; Ethanol</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">exaA</data>
+    </node>
+    <node id="n55">
+      <data key="v_name">K22473</data>
+      <data key="v_Gene">adhA</data>
+      <data key="v_Function">Acetaldehyde =&gt; Ethanol</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">adhA</data>
+    </node>
+    <node id="n56">
+      <data key="v_name">K00169</data>
+      <data key="v_Gene">porA</data>
+      <data key="v_Function">Fermentation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">porA</data>
+    </node>
+    <node id="n57">
+      <data key="v_name">K00016</data>
+      <data key="v_Gene">ldh</data>
+      <data key="v_Function">Fermentation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">ldh</data>
+    </node>
+    <node id="n58">
+      <data key="v_name">K00625</data>
+      <data key="v_Gene">pta</data>
+      <data key="v_Function">Fermentation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">pta</data>
+    </node>
+    <node id="n59">
+      <data key="v_name">K00925</data>
+      <data key="v_Gene">ack</data>
+      <data key="v_Function">Fermentation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">ack</data>
+    </node>
+    <node id="n60">
+      <data key="v_name">K01905</data>
+      <data key="v_Gene">acdA</data>
+      <data key="v_Function">Fermentation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">acdA</data>
+    </node>
+    <node id="n61">
+      <data key="v_name">K01895</data>
+      <data key="v_Gene">acs</data>
+      <data key="v_Function">Fermentation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">acs</data>
+    </node>
+    <node id="n62">
+      <data key="v_name">K00656</data>
+      <data key="v_Gene">pflD</data>
+      <data key="v_Function">Fermentation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">pflD</data>
+    </node>
+    <node id="n63">
+      <data key="v_name">K16157</data>
+      <data key="v_Gene">mmoX</data>
+      <data key="v_Function">Methane oxidation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">mmoX</data>
+    </node>
+    <node id="n64">
+      <data key="v_name">K16161</data>
+      <data key="v_Gene">mmoC</data>
+      <data key="v_Function">Methane oxidation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">mmoC</data>
+    </node>
+    <node id="n65">
+      <data key="v_name">K00370</data>
+      <data key="v_Gene">nxrA</data>
+      <data key="v_Function">Nitrite oxidation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">nxrA</data>
+    </node>
+    <node id="n66">
+      <data key="v_name">K00371</data>
+      <data key="v_Gene">nxrB</data>
+      <data key="v_Function">Nitrite oxidation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">nxrB</data>
+    </node>
+    <node id="n67">
+      <data key="v_name">K02567</data>
+      <data key="v_Gene">napA</data>
+      <data key="v_Function">Nitrate reduction</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">napA</data>
+    </node>
+    <node id="n68">
+      <data key="v_name">K03385</data>
+      <data key="v_Gene">nrfA</data>
+      <data key="v_Function">Nitrite ammonification</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">nrfA</data>
+    </node>
+    <node id="n69">
+      <data key="v_name">K15876</data>
+      <data key="v_Gene">nrfH</data>
+      <data key="v_Function">Nitrite ammonification</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">nrfH</data>
+    </node>
+    <node id="n70">
+      <data key="v_name">K00362</data>
+      <data key="v_Gene">nirB</data>
+      <data key="v_Function">Nitrite ammonification</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">nirB</data>
+    </node>
+    <node id="n71">
+      <data key="v_name">K00363</data>
+      <data key="v_Gene">nirD</data>
+      <data key="v_Function">Nitrite ammonification</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">nirD</data>
+    </node>
+    <node id="n72">
+      <data key="v_name">K00368</data>
+      <data key="v_Gene">nirK</data>
+      <data key="v_Function">Nitrite reduction</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">nirK</data>
+    </node>
+    <node id="n73">
+      <data key="v_name">K04561</data>
+      <data key="v_Gene">norB</data>
+      <data key="v_Function">Nitric oxide reduction</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">norB</data>
+    </node>
+    <node id="n74">
+      <data key="v_name">K00376</data>
+      <data key="v_Gene">nosZ</data>
+      <data key="v_Function">Nitrous oxide reduction</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">nosZ</data>
+    </node>
+    <node id="n75">
+      <data key="v_name">K17218</data>
+      <data key="v_Gene">sqr</data>
+      <data key="v_Function">Sulfide oxidation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">sqr</data>
+    </node>
+    <node id="n76">
+      <data key="v_name">K17229</data>
+      <data key="v_Gene">fccB</data>
+      <data key="v_Function">Sulfide oxidation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">fccB</data>
+    </node>
+    <node id="n77">
+      <data key="v_name">K11180</data>
+      <data key="v_Gene">dsrA</data>
+      <data key="v_Function">Sulfur oxidation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">dsrA</data>
+    </node>
+    <node id="n78">
+      <data key="v_name">K11181</data>
+      <data key="v_Gene">dsrB</data>
+      <data key="v_Function">Sulfur oxidation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">dsrB</data>
+    </node>
+    <node id="n79">
+      <data key="v_name">K05301</data>
+      <data key="v_Gene">sorA</data>
+      <data key="v_Function">Sulfur reduction</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">sorA</data>
+    </node>
+    <node id="n80">
+      <data key="v_name">K21307</data>
+      <data key="v_Gene">soeA</data>
+      <data key="v_Function">Sulfite oxidation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">soeA</data>
+    </node>
+    <node id="n81">
+      <data key="v_name">K21309</data>
+      <data key="v_Gene">soeC</data>
+      <data key="v_Function">Sulfite oxidation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">soeC</data>
+    </node>
+    <node id="n82">
+      <data key="v_name">K17224</data>
+      <data key="v_Gene">soxB</data>
+      <data key="v_Function">Thiosulfate oxidation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">soxB</data>
+    </node>
+    <node id="n83">
+      <data key="v_name">K17226</data>
+      <data key="v_Gene">soxY</data>
+      <data key="v_Function">Thiosulfate oxidation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">soxY</data>
+    </node>
+    <node id="n84">
+      <data key="v_name">K17223</data>
+      <data key="v_Gene">soxX</data>
+      <data key="v_Function">Thiosulfate oxidation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">soxX</data>
+    </node>
+    <node id="n85">
+      <data key="v_name">K17227</data>
+      <data key="v_Gene">soxZ</data>
+      <data key="v_Function">Thiosulfate oxidation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">soxZ</data>
+    </node>
+    <node id="n86">
+      <data key="v_name">K17222</data>
+      <data key="v_Gene">soxA</data>
+      <data key="v_Function">Thiosulfate oxidation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">soxA</data>
+    </node>
+    <node id="n87">
+      <data key="v_name">K16950</data>
+      <data key="v_Gene">asrA</data>
+      <data key="v_Function">Sulfite reduction</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">asrA</data>
+    </node>
+    <node id="n88">
+      <data key="v_name">K16951</data>
+      <data key="v_Gene">asrB</data>
+      <data key="v_Function">Sulfite reduction</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">asrB</data>
+    </node>
+    <node id="n89">
+      <data key="v_name">K00395</data>
+      <data key="v_Gene">aprB</data>
+      <data key="v_Function">Sulfate reduction</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">aprB</data>
+    </node>
+    <node id="n90">
+      <data key="v_name">K00958</data>
+      <data key="v_Gene">sat</data>
+      <data key="v_Function">Sulfate reduction</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">sat</data>
+    </node>
+    <node id="n91">
+      <data key="v_name">K08352</data>
+      <data key="v_Gene">phsA</data>
+      <data key="v_Function">Thiosulfate disproportionation</data>
+      <data key="v_type">KO</data>
+      <data key="v_label">phsA</data>
+    </node>
+    <node id="n92">
+      <data key="v_name">LGH3-17.metabat.17</data>
+      <data key="v_Gene">NA</data>
+      <data key="v_Function">NA</data>
+      <data key="v_type">Bin</data>
+      <data key="v_label">LGH3-17.metabat.17</data>
+    </node>
+    <node id="n93">
+      <data key="v_name">LGH3-17.metabat.20</data>
+      <data key="v_Gene">NA</data>
+      <data key="v_Function">NA</data>
+      <data key="v_type">Bin</data>
+      <data key="v_label">LGH3-17.metabat.20</data>
+    </node>
+    <node id="n94">
+      <data key="v_name">LGH3-17.metabat.22</data>
+      <data key="v_Gene">NA</data>
+      <data key="v_Function">NA</data>
+      <data key="v_type">Bin</data>
+      <data key="v_label">LGH3-17.metabat.22</data>
+    </node>
+    <node id="n95">
+      <data key="v_name">LGH3-17.metabat.29</data>
+      <data key="v_Gene">NA</data>
+      <data key="v_Function">NA</data>
+      <data key="v_type">Bin</data>
+      <data key="v_label">LGH3-17.metabat.29</data>
+    </node>
+    <node id="n96">
+      <data key="v_name">LGH3-17.metabat.50</data>
+      <data key="v_Gene">NA</data>
+      <data key="v_Function">NA</data>
+      <data key="v_type">Bin</data>
+      <data key="v_label">LGH3-17.metabat.50</data>
+    </node>
+    <node id="n97">
+      <data key="v_name">LGH3-19.metabat.34</data>
+      <data key="v_Gene">NA</data>
+      <data key="v_Function">NA</data>
+      <data key="v_type">Bin</data>
+      <data key="v_label">LGH3-19.metabat.34</data>
+    </node>
+    <node id="n98">
+      <data key="v_name">LGH3-20.metabat.8</data>
+      <data key="v_Gene">NA</data>
+      <data key="v_Function">NA</data>
+      <data key="v_type">Bin</data>
+      <data key="v_label">LGH3-20.metabat.8</data>
+    </node>
+    <node id="n99">
+      <data key="v_name">LGH3-20.metabat.24</data>
+      <data key="v_Gene">NA</data>
+      <data key="v_Function">NA</data>
+      <data key="v_type">Bin</data>
+      <data key="v_label">LGH3-20.metabat.24</data>
+    </node>
+    <node id="n100">
+      <data key="v_name">LGH3-20.metabat.29</data>
+      <data key="v_Gene">NA</data>
+      <data key="v_Function">NA</data>
+      <data key="v_type">Bin</data>
+      <data key="v_label">LGH3-20.metabat.29</data>
+    </node>
+    <node id="n101">
+      <data key="v_name">LGH3-20.metabat.31</data>
+      <data key="v_Gene">NA</data>
+      <data key="v_Function">NA</data>
+      <data key="v_type">Bin</data>
+      <data key="v_label">LGH3-20.metabat.31</data>
+    </node>
+    <node id="n102">
+      <data key="v_name">LGH3-20.metabat.35</data>
+      <data key="v_Gene">NA</data>
+      <data key="v_Function">NA</data>
+      <data key="v_type">Bin</data>
+      <data key="v_label">LGH3-20.metabat.35</data>
+    </node>
+    <node id="n103">
+      <data key="v_name">LGH3-20.metabat.42</data>
+      <data key="v_Gene">NA</data>
+      <data key="v_Function">NA</data>
+      <data key="v_type">Bin</data>
+      <data key="v_label">LGH3-20.metabat.42</data>
+    </node>
+    <edge source="n0" target="n94">
+      <data key="e_weight">5.571387</data>
+    </edge>
+    <edge source="n0" target="n97">
+      <data key="e_weight">4.752218</data>
+    </edge>
+    <edge source="n0" target="n98">
+      <data key="e_weight">11.628495</data>
+    </edge>
+    <edge source="n1" target="n97">
+      <data key="e_weight">3.959335</data>
+    </edge>
+    <edge source="n2" target="n95">
+      <data key="e_weight">5.990024</data>
+    </edge>
+    <edge source="n3" target="n92">
+      <data key="e_weight">10.555355</data>
+    </edge>
+    <edge source="n3" target="n93">
+      <data key="e_weight">8.874295</data>
+    </edge>
+    <edge source="n3" target="n94">
+      <data key="e_weight">11.313603</data>
+    </edge>
+    <edge source="n3" target="n97">
+      <data key="e_weight">24.150175</data>
+    </edge>
+    <edge source="n3" target="n99">
+      <data key="e_weight">4.813626</data>
+    </edge>
+    <edge source="n3" target="n101">
+      <data key="e_weight">1.540899</data>
+    </edge>
+    <edge source="n3" target="n102">
+      <data key="e_weight">5.732474</data>
+    </edge>
+    <edge source="n4" target="n94">
+      <data key="e_weight">7.359717</data>
+    </edge>
+    <edge source="n4" target="n99">
+      <data key="e_weight">3.656532</data>
+    </edge>
+    <edge source="n4" target="n101">
+      <data key="e_weight">1.540899</data>
+    </edge>
+    <edge source="n5" target="n92">
+      <data key="e_weight">4.120191</data>
+    </edge>
+    <edge source="n5" target="n93">
+      <data key="e_weight">10.063258</data>
+    </edge>
+    <edge source="n5" target="n94">
+      <data key="e_weight">9.308398</data>
+    </edge>
+    <edge source="n5" target="n95">
+      <data key="e_weight">5.367071</data>
+    </edge>
+    <edge source="n5" target="n96">
+      <data key="e_weight">15.081938</data>
+    </edge>
+    <edge source="n5" target="n97">
+      <data key="e_weight">6.527354</data>
+    </edge>
+    <edge source="n5" target="n98">
+      <data key="e_weight">16.634275</data>
+    </edge>
+    <edge source="n5" target="n99">
+      <data key="e_weight">11.253097</data>
+    </edge>
+    <edge source="n5" target="n100">
+      <data key="e_weight">4.205296</data>
+    </edge>
+    <edge source="n5" target="n101">
+      <data key="e_weight">6.833395</data>
+    </edge>
+    <edge source="n5" target="n102">
+      <data key="e_weight">13.174588</data>
+    </edge>
+    <edge source="n6" target="n98">
+      <data key="e_weight">1.768211</data>
+    </edge>
+    <edge source="n7" target="n96">
+      <data key="e_weight">1.157423</data>
+    </edge>
+    <edge source="n7" target="n97">
+      <data key="e_weight">4.13805</data>
+    </edge>
+    <edge source="n8" target="n95">
+      <data key="e_weight">3.525172</data>
+    </edge>
+    <edge source="n8" target="n99">
+      <data key="e_weight">3.944867</data>
+    </edge>
+    <edge source="n9" target="n97">
+      <data key="e_weight">10.104504</data>
+    </edge>
+    <edge source="n9" target="n98">
+      <data key="e_weight">3.264839</data>
+    </edge>
+    <edge source="n9" target="n99">
+      <data key="e_weight">1.880466</data>
+    </edge>
+    <edge source="n9" target="n100">
+      <data key="e_weight">3.661098</data>
+    </edge>
+    <edge source="n9" target="n101">
+      <data key="e_weight">3.977879</data>
+    </edge>
+    <edge source="n9" target="n102">
+      <data key="e_weight">3.4891325</data>
+    </edge>
+    <edge source="n10" target="n98">
+      <data key="e_weight">4.105438</data>
+    </edge>
+    <edge source="n11" target="n92">
+      <data key="e_weight">4.366772</data>
+    </edge>
+    <edge source="n11" target="n93">
+      <data key="e_weight">5.679185</data>
+    </edge>
+    <edge source="n11" target="n94">
+      <data key="e_weight">6.574437</data>
+    </edge>
+    <edge source="n11" target="n95">
+      <data key="e_weight">10.046985</data>
+    </edge>
+    <edge source="n11" target="n96">
+      <data key="e_weight">5.678473</data>
+    </edge>
+    <edge source="n11" target="n97">
+      <data key="e_weight">5.635219333</data>
+    </edge>
+    <edge source="n11" target="n99">
+      <data key="e_weight">13.979817</data>
+    </edge>
+    <edge source="n11" target="n100">
+      <data key="e_weight">3.768001</data>
+    </edge>
+    <edge source="n11" target="n102">
+      <data key="e_weight">9.542139</data>
+    </edge>
+    <edge source="n12" target="n94">
+      <data key="e_weight">5.59984</data>
+    </edge>
+    <edge source="n12" target="n99">
+      <data key="e_weight">3.251557</data>
+    </edge>
+    <edge source="n12" target="n100">
+      <data key="e_weight">3.903097</data>
+    </edge>
+    <edge source="n13" target="n92">
+      <data key="e_weight">2.5668205</data>
+    </edge>
+    <edge source="n13" target="n93">
+      <data key="e_weight">3.155512</data>
+    </edge>
+    <edge source="n13" target="n103">
+      <data key="e_weight">1.9226665</data>
+    </edge>
+    <edge source="n14" target="n92">
+      <data key="e_weight">13.182945</data>
+    </edge>
+    <edge source="n14" target="n93">
+      <data key="e_weight">61.480513</data>
+    </edge>
+    <edge source="n14" target="n94">
+      <data key="e_weight">30.706335</data>
+    </edge>
+    <edge source="n14" target="n96">
+      <data key="e_weight">9.998657</data>
+    </edge>
+    <edge source="n14" target="n97">
+      <data key="e_weight">3.141779</data>
+    </edge>
+    <edge source="n14" target="n98">
+      <data key="e_weight">6.503233</data>
+    </edge>
+    <edge source="n14" target="n99">
+      <data key="e_weight">101.3725053</data>
+    </edge>
+    <edge source="n14" target="n100">
+      <data key="e_weight">1.144781</data>
+    </edge>
+    <edge source="n14" target="n102">
+      <data key="e_weight">1.213253</data>
+    </edge>
+    <edge source="n14" target="n103">
+      <data key="e_weight">7.996185</data>
+    </edge>
+    <edge source="n15" target="n103">
+      <data key="e_weight">2.996838</data>
+    </edge>
+    <edge source="n16" target="n99">
+      <data key="e_weight">4.62204</data>
+    </edge>
+    <edge source="n17" target="n98">
+      <data key="e_weight">8.245071</data>
+    </edge>
+    <edge source="n17" target="n99">
+      <data key="e_weight">5.170615</data>
+    </edge>
+    <edge source="n18" target="n103">
+      <data key="e_weight">1.450746</data>
+    </edge>
+    <edge source="n19" target="n103">
+      <data key="e_weight">2.815597</data>
+    </edge>
+    <edge source="n20" target="n97">
+      <data key="e_weight">2.1905175</data>
+    </edge>
+    <edge source="n21" target="n93">
+      <data key="e_weight">5.3883045</data>
+    </edge>
+    <edge source="n21" target="n97">
+      <data key="e_weight">7.7543325</data>
+    </edge>
+    <edge source="n21" target="n100">
+      <data key="e_weight">1.866128</data>
+    </edge>
+    <edge source="n21" target="n101">
+      <data key="e_weight">3.06393175</data>
+    </edge>
+    <edge source="n21" target="n102">
+      <data key="e_weight">20.5519735</data>
+    </edge>
+    <edge source="n22" target="n93">
+      <data key="e_weight">24.689233</data>
+    </edge>
+    <edge source="n22" target="n94">
+      <data key="e_weight">5.374937</data>
+    </edge>
+    <edge source="n22" target="n97">
+      <data key="e_weight">11.144194</data>
+    </edge>
+    <edge source="n22" target="n102">
+      <data key="e_weight">5.999821</data>
+    </edge>
+    <edge source="n22" target="n103">
+      <data key="e_weight">3.624224</data>
+    </edge>
+    <edge source="n23" target="n92">
+      <data key="e_weight">2.915959</data>
+    </edge>
+    <edge source="n23" target="n93">
+      <data key="e_weight">5.931365</data>
+    </edge>
+    <edge source="n23" target="n94">
+      <data key="e_weight">5.292931</data>
+    </edge>
+    <edge source="n23" target="n98">
+      <data key="e_weight">3.168783</data>
+    </edge>
+    <edge source="n24" target="n101">
+      <data key="e_weight">2.607444</data>
+    </edge>
+    <edge source="n24" target="n102">
+      <data key="e_weight">4.352292</data>
+    </edge>
+    <edge source="n25" target="n101">
+      <data key="e_weight">3.416663</data>
+    </edge>
+    <edge source="n25" target="n102">
+      <data key="e_weight">4.07208</data>
+    </edge>
+    <edge source="n26" target="n97">
+      <data key="e_weight">8.539388</data>
+    </edge>
+    <edge source="n26" target="n101">
+      <data key="e_weight">2.426879</data>
+    </edge>
+    <edge source="n26" target="n102">
+      <data key="e_weight">10.732641</data>
+    </edge>
+    <edge source="n27" target="n98">
+      <data key="e_weight">3.402365</data>
+    </edge>
+    <edge source="n28" target="n97">
+      <data key="e_weight">4.729212</data>
+    </edge>
+    <edge source="n29" target="n97">
+      <data key="e_weight">7.336807</data>
+    </edge>
+    <edge source="n29" target="n102">
+      <data key="e_weight">5.053911</data>
+    </edge>
+    <edge source="n30" target="n92">
+      <data key="e_weight">1.600594</data>
+    </edge>
+    <edge source="n30" target="n93">
+      <data key="e_weight">3.8075975</data>
+    </edge>
+    <edge source="n30" target="n97">
+      <data key="e_weight">13.833329</data>
+    </edge>
+    <edge source="n30" target="n98">
+      <data key="e_weight">3.647144</data>
+    </edge>
+    <edge source="n30" target="n102">
+      <data key="e_weight">32.31962567</data>
+    </edge>
+    <edge source="n31" target="n92">
+      <data key="e_weight">1.600594</data>
+    </edge>
+    <edge source="n31" target="n93">
+      <data key="e_weight">6.011035</data>
+    </edge>
+    <edge source="n31" target="n101">
+      <data key="e_weight">4.837932</data>
+    </edge>
+    <edge source="n31" target="n102">
+      <data key="e_weight">12.76023767</data>
+    </edge>
+    <edge source="n32" target="n100">
+      <data key="e_weight">3.936963</data>
+    </edge>
+    <edge source="n32" target="n102">
+      <data key="e_weight">6.224747</data>
+    </edge>
+    <edge source="n33" target="n102">
+      <data key="e_weight">1.854608667</data>
+    </edge>
+    <edge source="n34" target="n93">
+      <data key="e_weight">5.887534</data>
+    </edge>
+    <edge source="n34" target="n94">
+      <data key="e_weight">5.360474</data>
+    </edge>
+    <edge source="n35" target="n97">
+      <data key="e_weight">3.858798</data>
+    </edge>
+    <edge source="n35" target="n99">
+      <data key="e_weight">17.106734</data>
+    </edge>
+    <edge source="n35" target="n102">
+      <data key="e_weight">6.911499</data>
+    </edge>
+    <edge source="n36" target="n93">
+      <data key="e_weight">8.291119</data>
+    </edge>
+    <edge source="n36" target="n96">
+      <data key="e_weight">2.265672</data>
+    </edge>
+    <edge source="n36" target="n101">
+      <data key="e_weight">14.186226</data>
+    </edge>
+    <edge source="n36" target="n102">
+      <data key="e_weight">2.466813</data>
+    </edge>
+    <edge source="n37" target="n93">
+      <data key="e_weight">3.8075975</data>
+    </edge>
+    <edge source="n37" target="n97">
+      <data key="e_weight">10.648466</data>
+    </edge>
+    <edge source="n37" target="n101">
+      <data key="e_weight">6.415131</data>
+    </edge>
+    <edge source="n37" target="n102">
+      <data key="e_weight">5.54759</data>
+    </edge>
+    <edge source="n38" target="n93">
+      <data key="e_weight">7.725889</data>
+    </edge>
+    <edge source="n38" target="n96">
+      <data key="e_weight">4.904454</data>
+    </edge>
+    <edge source="n39" target="n96">
+      <data key="e_weight">3.885477</data>
+    </edge>
+    <edge source="n40" target="n93">
+      <data key="e_weight">11.3795525</data>
+    </edge>
+    <edge source="n40" target="n94">
+      <data key="e_weight">18.564159</data>
+    </edge>
+    <edge source="n40" target="n96">
+      <data key="e_weight">9.497877</data>
+    </edge>
+    <edge source="n40" target="n98">
+      <data key="e_weight">3.614132</data>
+    </edge>
+    <edge source="n40" target="n99">
+      <data key="e_weight">1.565682667</data>
+    </edge>
+    <edge source="n40" target="n102">
+      <data key="e_weight">6.916137</data>
+    </edge>
+    <edge source="n40" target="n103">
+      <data key="e_weight">12.27484</data>
+    </edge>
+    <edge source="n41" target="n102">
+      <data key="e_weight">3.4711835</data>
+    </edge>
+    <edge source="n42" target="n95">
+      <data key="e_weight">11.219048</data>
+    </edge>
+    <edge source="n43" target="n97">
+      <data key="e_weight">5.330953</data>
+    </edge>
+    <edge source="n43" target="n98">
+      <data key="e_weight">1.6600115</data>
+    </edge>
+    <edge source="n43" target="n99">
+      <data key="e_weight">5.010987</data>
+    </edge>
+    <edge source="n44" target="n92">
+      <data key="e_weight">4.842394</data>
+    </edge>
+    <edge source="n44" target="n93">
+      <data key="e_weight">4.6374955</data>
+    </edge>
+    <edge source="n44" target="n94">
+      <data key="e_weight">4.4023785</data>
+    </edge>
+    <edge source="n44" target="n95">
+      <data key="e_weight">3.895219</data>
+    </edge>
+    <edge source="n44" target="n96">
+      <data key="e_weight">7.0957245</data>
+    </edge>
+    <edge source="n44" target="n97">
+      <data key="e_weight">2.0003925</data>
+    </edge>
+    <edge source="n44" target="n98">
+      <data key="e_weight">3.539037</data>
+    </edge>
+    <edge source="n44" target="n99">
+      <data key="e_weight">12.96489</data>
+    </edge>
+    <edge source="n44" target="n100">
+      <data key="e_weight">10.013096</data>
+    </edge>
+    <edge source="n44" target="n101">
+      <data key="e_weight">1.874650333</data>
+    </edge>
+    <edge source="n44" target="n103">
+      <data key="e_weight">2.6619235</data>
+    </edge>
+    <edge source="n45" target="n93">
+      <data key="e_weight">5.578412</data>
+    </edge>
+    <edge source="n45" target="n94">
+      <data key="e_weight">4.656248</data>
+    </edge>
+    <edge source="n45" target="n97">
+      <data key="e_weight">0.834906</data>
+    </edge>
+    <edge source="n45" target="n99">
+      <data key="e_weight">17.343859</data>
+    </edge>
+    <edge source="n45" target="n100">
+      <data key="e_weight">4.382540333</data>
+    </edge>
+    <edge source="n45" target="n102">
+      <data key="e_weight">1.15477875</data>
+    </edge>
+    <edge source="n45" target="n103">
+      <data key="e_weight">2.048027</data>
+    </edge>
+    <edge source="n46" target="n103">
+      <data key="e_weight">2.0367465</data>
+    </edge>
+    <edge source="n47" target="n94">
+      <data key="e_weight">5.283136</data>
+    </edge>
+    <edge source="n47" target="n99">
+      <data key="e_weight">8.756089</data>
+    </edge>
+    <edge source="n48" target="n99">
+      <data key="e_weight">17.468258</data>
+    </edge>
+    <edge source="n49" target="n95">
+      <data key="e_weight">4.945145</data>
+    </edge>
+    <edge source="n49" target="n100">
+      <data key="e_weight">1.5130425</data>
+    </edge>
+    <edge source="n50" target="n100">
+      <data key="e_weight">3.656553</data>
+    </edge>
+    <edge source="n51" target="n99">
+      <data key="e_weight">13.7861325</data>
+    </edge>
+    <edge source="n52" target="n97">
+      <data key="e_weight">1.028876333</data>
+    </edge>
+    <edge source="n53" target="n93">
+      <data key="e_weight">4.9561585</data>
+    </edge>
+    <edge source="n53" target="n95">
+      <data key="e_weight">6.3838</data>
+    </edge>
+    <edge source="n53" target="n96">
+      <data key="e_weight">2.44337</data>
+    </edge>
+    <edge source="n53" target="n97">
+      <data key="e_weight">5.130591333</data>
+    </edge>
+    <edge source="n53" target="n98">
+      <data key="e_weight">3.440251</data>
+    </edge>
+    <edge source="n53" target="n99">
+      <data key="e_weight">10.69867517</data>
+    </edge>
+    <edge source="n53" target="n102">
+      <data key="e_weight">9.124321</data>
+    </edge>
+    <edge source="n54" target="n93">
+      <data key="e_weight">10.072562</data>
+    </edge>
+    <edge source="n54" target="n94">
+      <data key="e_weight">1.619317</data>
+    </edge>
+    <edge source="n54" target="n96">
+      <data key="e_weight">3.604034</data>
+    </edge>
+    <edge source="n55" target="n94">
+      <data key="e_weight">1.619317</data>
+    </edge>
+    <edge source="n56" target="n92">
+      <data key="e_weight">6.590923</data>
+    </edge>
+    <edge source="n56" target="n99">
+      <data key="e_weight">7.724049</data>
+    </edge>
+    <edge source="n56" target="n100">
+      <data key="e_weight">7.646649</data>
+    </edge>
+    <edge source="n56" target="n103">
+      <data key="e_weight">1.651625</data>
+    </edge>
+    <edge source="n57" target="n95">
+      <data key="e_weight">1.8314085</data>
+    </edge>
+    <edge source="n57" target="n98">
+      <data key="e_weight">16.21223</data>
+    </edge>
+    <edge source="n57" target="n99">
+      <data key="e_weight">6.385024</data>
+    </edge>
+    <edge source="n58" target="n95">
+      <data key="e_weight">8.7481395</data>
+    </edge>
+    <edge source="n58" target="n97">
+      <data key="e_weight">3.451699</data>
+    </edge>
+    <edge source="n58" target="n99">
+      <data key="e_weight">3.8735955</data>
+    </edge>
+    <edge source="n58" target="n101">
+      <data key="e_weight">1.54008225</data>
+    </edge>
+    <edge source="n58" target="n102">
+      <data key="e_weight">7.900407</data>
+    </edge>
+    <edge source="n59" target="n95">
+      <data key="e_weight">5.640275</data>
+    </edge>
+    <edge source="n59" target="n97">
+      <data key="e_weight">7.032669</data>
+    </edge>
+    <edge source="n59" target="n98">
+      <data key="e_weight">3.754151</data>
+    </edge>
+    <edge source="n59" target="n99">
+      <data key="e_weight">7.844776</data>
+    </edge>
+    <edge source="n59" target="n101">
+      <data key="e_weight">2.08204</data>
+    </edge>
+    <edge source="n59" target="n102">
+      <data key="e_weight">11.053349</data>
+    </edge>
+    <edge source="n60" target="n92">
+      <data key="e_weight">5.256563</data>
+    </edge>
+    <edge source="n60" target="n100">
+      <data key="e_weight">5.856817</data>
+    </edge>
+    <edge source="n60" target="n102">
+      <data key="e_weight">4.647394667</data>
+    </edge>
+    <edge source="n60" target="n103">
+      <data key="e_weight">1.516946</data>
+    </edge>
+    <edge source="n61" target="n92">
+      <data key="e_weight">4.028607</data>
+    </edge>
+    <edge source="n61" target="n93">
+      <data key="e_weight">10.3409</data>
+    </edge>
+    <edge source="n61" target="n94">
+      <data key="e_weight">9.696161</data>
+    </edge>
+    <edge source="n61" target="n95">
+      <data key="e_weight">8.570532</data>
+    </edge>
+    <edge source="n61" target="n96">
+      <data key="e_weight">12.686954</data>
+    </edge>
+    <edge source="n61" target="n97">
+      <data key="e_weight">5.362347</data>
+    </edge>
+    <edge source="n61" target="n98">
+      <data key="e_weight">4.520706</data>
+    </edge>
+    <edge source="n61" target="n99">
+      <data key="e_weight">18.176265</data>
+    </edge>
+    <edge source="n61" target="n101">
+      <data key="e_weight">4.924438</data>
+    </edge>
+    <edge source="n61" target="n102">
+      <data key="e_weight">6.026855</data>
+    </edge>
+    <edge source="n62" target="n100">
+      <data key="e_weight">1.7415695</data>
+    </edge>
+    <edge source="n62" target="n101">
+      <data key="e_weight">7.565189</data>
+    </edge>
+    <edge source="n62" target="n102">
+      <data key="e_weight">1.621878</data>
+    </edge>
+    <edge source="n63" target="n100">
+      <data key="e_weight">0.695992714</data>
+    </edge>
+    <edge source="n64" target="n102">
+      <data key="e_weight">1.729554</data>
+    </edge>
+    <edge source="n65" target="n93">
+      <data key="e_weight">4.13503</data>
+    </edge>
+    <edge source="n65" target="n99">
+      <data key="e_weight">4.3619115</data>
+    </edge>
+    <edge source="n65" target="n100">
+      <data key="e_weight">1.609578</data>
+    </edge>
+    <edge source="n66" target="n93">
+      <data key="e_weight">8.616923</data>
+    </edge>
+    <edge source="n66" target="n99">
+      <data key="e_weight">5.98965</data>
+    </edge>
+    <edge source="n66" target="n100">
+      <data key="e_weight">2.988044</data>
+    </edge>
+    <edge source="n67" target="n99">
+      <data key="e_weight">8.828177</data>
+    </edge>
+    <edge source="n68" target="n97">
+      <data key="e_weight">5.889636</data>
+    </edge>
+    <edge source="n69" target="n98">
+      <data key="e_weight">2.9441565</data>
+    </edge>
+    <edge source="n70" target="n94">
+      <data key="e_weight">15.261941</data>
+    </edge>
+    <edge source="n70" target="n101">
+      <data key="e_weight">3.726735</data>
+    </edge>
+    <edge source="n71" target="n97">
+      <data key="e_weight">5.769193</data>
+    </edge>
+    <edge source="n71" target="n98">
+      <data key="e_weight">7.573089</data>
+    </edge>
+    <edge source="n72" target="n96">
+      <data key="e_weight">3.390131</data>
+    </edge>
+    <edge source="n72" target="n98">
+      <data key="e_weight">8.623547</data>
+    </edge>
+    <edge source="n73" target="n97">
+      <data key="e_weight">4.567215</data>
+    </edge>
+    <edge source="n74" target="n93">
+      <data key="e_weight">9.595647</data>
+    </edge>
+    <edge source="n74" target="n94">
+      <data key="e_weight">6.327025</data>
+    </edge>
+    <edge source="n75" target="n95">
+      <data key="e_weight">1.995607</data>
+    </edge>
+    <edge source="n75" target="n99">
+      <data key="e_weight">9.573033</data>
+    </edge>
+    <edge source="n76" target="n95">
+      <data key="e_weight">1.995607</data>
+    </edge>
+    <edge source="n77" target="n99">
+      <data key="e_weight">8.031315</data>
+    </edge>
+    <edge source="n77" target="n100">
+      <data key="e_weight">3.564501</data>
+    </edge>
+    <edge source="n78" target="n99">
+      <data key="e_weight">10.027529</data>
+    </edge>
+    <edge source="n78" target="n100">
+      <data key="e_weight">4.162074</data>
+    </edge>
+    <edge source="n79" target="n99">
+      <data key="e_weight">6.696603</data>
+    </edge>
+    <edge source="n80" target="n99">
+      <data key="e_weight">5.984967</data>
+    </edge>
+    <edge source="n81" target="n99">
+      <data key="e_weight">4.573159</data>
+    </edge>
+    <edge source="n82" target="n99">
+      <data key="e_weight">2.8418765</data>
+    </edge>
+    <edge source="n82" target="n100">
+      <data key="e_weight">4.952325</data>
+    </edge>
+    <edge source="n83" target="n95">
+      <data key="e_weight">9.571459</data>
+    </edge>
+    <edge source="n83" target="n99">
+      <data key="e_weight">16.764473</data>
+    </edge>
+    <edge source="n84" target="n97">
+      <data key="e_weight">2.774859</data>
+    </edge>
+    <edge source="n84" target="n99">
+      <data key="e_weight">20.361661</data>
+    </edge>
+    <edge source="n85" target="n99">
+      <data key="e_weight">30.433127</data>
+    </edge>
+    <edge source="n86" target="n95">
+      <data key="e_weight">5.497878</data>
+    </edge>
+    <edge source="n86" target="n99">
+      <data key="e_weight">12.916974</data>
+    </edge>
+    <edge source="n87" target="n92">
+      <data key="e_weight">2.799689</data>
+    </edge>
+    <edge source="n88" target="n98">
+      <data key="e_weight">2.3240985</data>
+    </edge>
+    <edge source="n89" target="n95">
+      <data key="e_weight">9.504936</data>
+    </edge>
+    <edge source="n89" target="n97">
+      <data key="e_weight">36.192116</data>
+    </edge>
+    <edge source="n90" target="n95">
+      <data key="e_weight">4.525672</data>
+    </edge>
+    <edge source="n90" target="n101">
+      <data key="e_weight">5.86566775</data>
+    </edge>
+    <edge source="n91" target="n94">
+      <data key="e_weight">5.824866</data>
+    </edge>
+    <edge source="n91" target="n96">
+      <data key="e_weight">3.528748</data>
+    </edge>
+    <edge source="n91" target="n99">
+      <data key="e_weight">22.895625</data>
+    </edge>
+  </graph>
+</graphml>
