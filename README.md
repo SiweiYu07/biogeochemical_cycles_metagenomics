@@ -1,4 +1,4 @@
-# Sediment Metagenomic Functional Network Analysis
+<img width="468" height="56" alt="image" src="https://github.com/user-attachments/assets/dc518332-410f-4b58-ba17-7e7e1ec567ca" /># Sediment Metagenomic Functional Network Analysis
 
 This repository contains the analysis scripts used for the metagenomic functional network analyses described in our manuscript. The workflow focuses on the construction of MAG–KO bipartite networks, calculation of network topological properties, temporal functional changes, and the relationships between environmental variables, redox conditions, and microbial functional organization.
 
@@ -139,7 +139,7 @@ For reproducibility, users are encouraged to run the scripts in the order listed
 
 If you use the scripts or workflow from this repository, please cite the associated manuscript. The full citation and DOI will be provided after the manuscript is accepted:
 
-Siwei, Y., Xiaofeng, C., Yushuai, W., Deen, F., Tong, C., Pengfei, C., Shaopeng, G., Hongwei, Y., Weixiao, Q., Jianfeng, P., Huijuan, L., Jiuhui, Q., 2026. Redox mediates century-scale reorganization of microbial functional networks in anoxic lakes. Under review.
+Siwei, Y., Xiaofeng, C., Yushuai, W., Deen, F., Tong, C., Pengfei, C., Shaopeng, G., Hongwei, Y., Weixiao, Q., Jianfeng, P., Huijuan, L., Jiuhui, Q., 2026. Long-term deoxygenation reorganizes genome-resolved microbial functional networks in anoxic lake sediments. (Submitted)
 
 ## Contact
 
